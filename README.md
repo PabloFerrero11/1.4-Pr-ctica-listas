@@ -1,1 +1,1 @@
-# Pr-ctica-listas
+# Practica-listas
