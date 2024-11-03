@@ -1,20 +1,11 @@
-body {
-    font-family: 'Times New Roman' ;
-    text-align:left;
+
+.title  {
+  
+    color: blue;
 }
 
-h1 {
+
+h3 {
     color: black;
-   
-}
-
-h2 {
-    color: black;
-   
-}
-
-ul {list-style: circle;
-
-
-
+  
 }
